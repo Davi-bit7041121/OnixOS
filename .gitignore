@@ -1,0 +1,12 @@
+# Build outputs
+build/
+dist/
+*.o
+*.elf
+*.bin
+*.iso
+*.img
+
+# Tooling
+*.log
+.vscode/
