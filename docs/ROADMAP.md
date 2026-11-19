@@ -21,7 +21,7 @@ OnixOS is a minimal operating system built from the ground up for x86_64.
 ## Current status
 - [x] Repository created.
 - [ ] Development environment verified.
-- [ ] Firmware target selected.
+- [x] Firmware target selected: UEFI x86_64.
 - [ ] First bootable image.
 - [ ] Kernel entry confirmed in QEMU.
 
